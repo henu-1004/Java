@@ -55,6 +55,8 @@ public class Main07 {
 			}
 			System.out.println(max*100);
 		}
+		sc.close();
+
 
 	}
 

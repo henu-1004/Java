@@ -39,6 +39,8 @@ public class Main06 {
 			H-=24;
 		}
 		System.out.println(H +" "+ M);
+		sc.close();
+
 	}
 
 }

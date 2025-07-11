@@ -39,6 +39,8 @@ public class Main04 {
 			z=4;
 		}
 		System.out.println(z);
+		sc.close();
+
 	}
 
 }

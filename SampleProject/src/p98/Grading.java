@@ -26,5 +26,7 @@ public class Grading {
 		else
 			grade='f';
 		System.out.println("학점 : " + grade);
+		scanner.close();
+
 	}
 }

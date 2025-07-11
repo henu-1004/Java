@@ -30,7 +30,8 @@ public class SwitchTest {
 			break;
 		
 		}
-		
+		sc.close();
+
 	}
 	
 }

@@ -29,7 +29,7 @@ public class Main01 {
 		
 		System.out.println(a>b ? ">" : 
 							a==b? "==" : "<");
-		
+		sc.close();
 		
 	}
 

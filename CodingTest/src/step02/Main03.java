@@ -36,6 +36,8 @@ public class Main03 {
 				b=1;
 		}
 		System.out.println(b);
+		sc.close();
+
 	}
 
 }

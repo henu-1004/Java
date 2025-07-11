@@ -48,6 +48,8 @@ public class Main05 {
 		}
 		
 		System.out.println(H+" "+M);
+		sc.close();
+
 	}
 
 }

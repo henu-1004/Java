@@ -24,6 +24,8 @@ public class Main03 {
 			sum+=i;
 		}
 		System.out.println(sum);
+		sc.close();
+
 
 	}
 

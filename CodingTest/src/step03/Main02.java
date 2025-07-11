@@ -31,6 +31,8 @@ public class Main02 {
 		for(int n : sum) {
 			System.out.println(n);
 		}
+		sc.close();
+
 	}
 
 }

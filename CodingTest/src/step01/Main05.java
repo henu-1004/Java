@@ -24,6 +24,8 @@ public class Main05 {
 		b=sc.nextDouble();
 		
 		System.out.println(a/b);
+		sc.close();
+
 	}
 
 }

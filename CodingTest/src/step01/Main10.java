@@ -34,7 +34,7 @@ public class Main10 {
 		System.out.println(d);
 		System.out.println(e);
 		System.out.println(f);
-		
+		sc.close();
 		
 	}
 

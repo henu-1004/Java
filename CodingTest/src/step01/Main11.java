@@ -23,6 +23,8 @@ public class Main11 {
 		c = sc.nextLong();
 		
 		System.out.println(a+b+c);
+		sc.close();
+
 	}
 
 }

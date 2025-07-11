@@ -30,6 +30,7 @@ public class Test04 {
 			grade='f';
 		}
 		System.out.printf("등급은 %c입니다.", grade);
+		sc.close();
 
 	}
 

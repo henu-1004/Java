@@ -23,6 +23,7 @@ public class ArrayTest {
 		System.out.println("arr1 배열 길이 : " + arr1.length);
 		System.out.println("arr2 배열 길이 : " + arr2.length);
 		System.out.println("arr3 배열 길이 : " + arr3.length);
+		System.out.println("arr4 배열 길이 : " + arr4.length);
 		
 		//배열 반복문
 		for(int i=0; i < arr1.length; i++) {

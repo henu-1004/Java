@@ -37,6 +37,8 @@ public class Main02 {
 		default:
 			System.out.println("F");
 		}
+		sc.close();
+
 
 	}
 	

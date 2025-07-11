@@ -24,6 +24,8 @@ public class Main04 {
 		b=sc.nextInt();
 		
 		System.out.println(a*b);
+		sc.close();
+
 	}
 
 }

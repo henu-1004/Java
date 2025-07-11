@@ -9,7 +9,7 @@ public class Hello {
 		int s;
 		char a;
 		
-		s = sum(i,10);
+		sum(i,10);
 		a='?';
 		System.out.println(a);
 		System.out.println("Hello");

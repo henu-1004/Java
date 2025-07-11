@@ -1,6 +1,5 @@
 package step01;
 
-import java.util.Scanner;
 
 /* 날짜 : 2025.07.10
  * 이름 : 서현우
