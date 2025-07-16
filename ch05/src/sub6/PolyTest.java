@@ -11,6 +11,11 @@ package sub6;
  */
 
 public class PolyTest {
+	
+	public static void printSound(Pet pet) {
+		pet.makeSound();
+	}
+	
 	public static void main(String[] args) {
 		/*Animal a = new Animal();
 		Eagle e = new Eagle();
@@ -56,6 +61,14 @@ public class PolyTest {
 		arr[0].move();
 		arr[1].move();
 		arr[2].move();
+		
+		//Pet 다형성
+		Dog dog = new Dog();
+		Cat cat = new Cat();
+		//다형성으로 이렇게하면 자식메서드에서 정의했기때문에 잘 실행됨
+		printSound(dog); 
+		printSound(cat);
+		
 	}
 
 }
