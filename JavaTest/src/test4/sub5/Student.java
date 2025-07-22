@@ -25,7 +25,7 @@ public class Student {
 	
 	public void setScore(Subject sub, int score) {
 		for (int i = 0; i<10; i++) {
-			if(sub==subjects[i]) {
+			if(sub==subjects[i]) { //equals쓰는게 좋음
 				scores[i]=score;
 				System.out.println(this.name+ " - " + sub.getName()+ "점수 입력 완료");
 				break;
